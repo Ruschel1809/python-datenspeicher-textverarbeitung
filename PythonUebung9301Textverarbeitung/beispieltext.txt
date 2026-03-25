@@ -1,0 +1,4 @@
+
+das ist ein mehrzeiliger Text, der als Unicode-Zeichen ein Emoji enthält: 😀 
+Weiterhin enthält es eine Escape-Sequenz 
+ die einen Zeilenumbruch angibt.der variable Teil ist {0} obwohl das im Skript mal wieder kein Thema war :(

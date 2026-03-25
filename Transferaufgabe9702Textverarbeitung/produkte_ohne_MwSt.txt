@@ -1,0 +1,5 @@
+Milch,1.29
+Brot,2.5
+Äpfel,3.19
+#ert,1.34
+Butter,rtz
